@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyPentagram</string>
+
+    <string name="pName">Name</string>
+    <string name="pPic">Phone</string>
+    <string name="pRate">Email</string>
+    <string name="pImgUrl">Url</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="contact">Contact</string>
+    <string name="about">About us</string>
+    <string name="fav">Favorite</string>
+    <string name="accountCOnfig">Account Config</string>
+    <string name="action_notification">Notifications</string>
+    <string name="receive_notifications">Recibir Notificaciones</string>
+
+    <!-- ShsaredPrefsUsers -->
+    <string name="SHARED_PREFS_USER">users</string>
+
+    <string name="KEY_USERID_NUMERIC">User_Numeric</string>
+    <string name="KEY_USERID_USERNAME">User_Name</string>
+    <string name="KEY_USER_PROFILE_PICTURE">User_Profile_Picture</string>
+    <string name="KEY_INSTAGRAM_USER">key_Instagram</string>
+
+</resources>

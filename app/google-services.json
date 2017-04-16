@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "49602264405",
+    "firebase_url": "https://mypentagram-39705.firebaseio.com",
+    "project_id": "mypentagram-39705",
+    "storage_bucket": "mypentagram-39705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49602264405:android:364530a48c9481a3",
+        "android_client_info": {
+          "package_name": "org.coursera.mypentagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49602264405-aq7309fj04bogv9a5ncfb8kl458rrjab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.coursera.mypentagram",
+            "certificate_hash": "84cf67eef05c85538df4dde82413326e96e66b0f"
+          }
+        },
+        {
+          "client_id": "49602264405-dl19c2cn81kadljolr7s6uscas65hqv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaR1uxd_AyloI5t9VvbvNCijdWQ_g048"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49602264405-dl19c2cn81kadljolr7s6uscas65hqv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
